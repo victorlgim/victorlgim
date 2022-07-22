@@ -1,7 +1,7 @@
 ## Olá, meu nome é Victor Guedes. Sou um programador entusiasta e gamer nas horas vagas!
 <div align="center">
   <a href="https://github.com/victorglim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorglim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorglim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorglim&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
