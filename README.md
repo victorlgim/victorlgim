@@ -1,4 +1,4 @@
-## Olá, meu nome é Victor Guedes. Sou um programador entusiasta e gamer nas horas vagas!
+## Olá, meu nome é Victor Guedes. Sou um programador entusiasta e streamer nas horas vagas!
 <div align="center">
   <a href="https://github.com/victorglim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorglim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -18,7 +18,7 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCmPxP2bK0v99T0leafVbX1w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/whenwecollapse" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/bladessk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://ayo.so/victorglim" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
