@@ -11,7 +11,7 @@ object victorglim {
  const name = "Victor Lima"
  const acknowledgements = "Fullstack Developer"
  
- const primarySkillset = "ALGUMAS HABILIDADES"
+ const primarySkillset = "Front end Development"
  const languages = listOf("Javascript", "React", "Node", "SQL", "Python") 
 
 }
