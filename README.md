@@ -13,7 +13,6 @@ Hello, my name is Victor. I'm an enthusiastic programmer who loves what he does!
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Victor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="victorglim" height="150" style="border-radius:50px;" src="[https://cdn.discordapp.com/attachments/969180474901663776/993994764464685166/56ebba1eb31217d0a8ae7fe82f70bf5e.jpg](https://cdn.discordapp.com/attachments/969180474901663776/993994764464685166/56ebba1eb31217d0a8ae7fe82f70bf5e.jpg)">
 </div>
   
   ##
