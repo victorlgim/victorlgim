@@ -12,7 +12,7 @@ object **SEU NOME** {
  val acknowledgements = "Fullstack Developer"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Javascript", "React", "React Native", "Node", "SQL", "Python") 
+ val languages = listOf("Javascript", "React", "Node", "SQL", "Python") 
 
 }
 ```
