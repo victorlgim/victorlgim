@@ -43,7 +43,7 @@ object victorglim {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorglim&show_icons=true&theme=dracula&line_height=27" alt="vitorglim github stats"/>
 </a>
 
-[website]: https://codedev.ga/
+[website]: https://github.com/victorglim
 [youtube]: https://www.youtube.com/@code3362
 [linkedin]: https://www.linkedin.com/in/vitor-lima/
 <br>
