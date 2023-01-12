@@ -45,7 +45,6 @@ object victorglim {
 
 [website]: https://github.com/victorglim
 [youtube]: https://www.youtube.com/@code3362
-[linkedin]: https://www.linkedin.com/in/vitor-lima/
 <br>
 
 #### Rede Sociais!
