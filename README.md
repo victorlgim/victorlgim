@@ -51,5 +51,5 @@ object victorglim {
 
 🏡 [website][website] **|** 
 📺 [youtube][youtube] **|** 
-👔 [linkedin][linkedin]
+
 
