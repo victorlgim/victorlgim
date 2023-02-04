@@ -35,13 +35,15 @@ object victorglim {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/victorglim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorglim&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/victorglim">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorglim&show_icons=true&theme=dracula&line_height=27" alt="vitorglim github stats"/>
-</a>
+<div align="center">
+  <a href="https://github.com/aizzxn">
+  <img height="180em" width="70%" src="https://github-readme-stats.vercel.app/api?username=aizzxn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizzxn&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+  ##
+ 
+<div> 
 
 [website]: https://aizzxn.vercel.app/
 [youtube]: https://www.youtube.com/@aizzxn/
