@@ -44,7 +44,7 @@ object victorglim {
 </a>
 
 [website]: https://aizzxn.vercel.app/
-[youtube]: https://www.youtube.com/@code3362
+[youtube]: https://www.youtube.com/@aizzxn/
 <br>
 
 #### Rede Sociais!
