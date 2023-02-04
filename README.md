@@ -35,8 +35,12 @@ object victorglim {
 
 ## **GitHub Estatísticas**
 
- ![github stats](https://github-readme-stats.vercel.app/api?username=aizzxn&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aizzxn&layout=compact&theme=dark)
+<a href="https://github.com/aizzxn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizzxn&theme=dracula&hide_langs_below=1" />
+</a>
+<a href="https://github.com/aizzxn">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=aizzxn&show_icons=true&theme=dracula&line_height=27" alt="aizzxn github stats"/>
+</a>
   
   ##
  
