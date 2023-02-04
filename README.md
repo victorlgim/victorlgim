@@ -35,12 +35,11 @@ object victorglim {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/aizzxn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizzxn&theme=dracula&hide_langs_below=1" />
-</a>
-<a href="https://github.com/aizzxn">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aizzxn&show_icons=true&theme=dracula&line_height=27" alt="aizzxn github stats"/>
-</a>
+<div align="center">
+  <a href="https://github.com/Natangaf">
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=aizzxn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizzxn&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
   ##
  
