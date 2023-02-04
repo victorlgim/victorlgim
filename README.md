@@ -35,7 +35,7 @@ object victorglim {
 
 ## **GitHub Estatísticas**
 
- ![github stats](https://github-readme-stats.vercel.app/api?username=aizzxn7&show_icons=true&theme=dark)
+ ![github stats](https://github-readme-stats.vercel.app/api?username=aizzxn&show_icons=true&theme=dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aizzxn&layout=compact&theme=dark)
   
   ##
