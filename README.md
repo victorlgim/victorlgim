@@ -54,4 +54,6 @@ object victorglim {
 🏡 [website][website] **|** 
 📺 [youtube][youtube] **|** 
 
+ 
+![Snake animation](https://github.com/aizzxn/aizzxn/blob/output/github-contribution-grid-snake.svg)
 
