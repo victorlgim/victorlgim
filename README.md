@@ -12,7 +12,7 @@ object victorglim {
  const acknowledgements = "Fullstack Developer"
  
  const primarySkillset = "Back end Development"
- const languages = listOf("React", "Typescript", "Node.js", "Python") 
+ const languages = listOf("Javascript", "React", "Typescript", "Python") 
 
 }
 ```
