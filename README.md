@@ -61,7 +61,7 @@ object victorglim {
 
 
 
-## **GitHub Estatísticas**
+## **Statistics**
 
 <div align="center">
   <a href="https://github.com/aizzxn">
@@ -77,7 +77,7 @@ object victorglim {
 [youtube]: https://www.youtube.com/@aizzxn/
 <br>
 
-#### Rede Sociais!
+#### Social media!
 
 🏡 [website][website] **|** 
 📺 [youtube][youtube] **|** 
