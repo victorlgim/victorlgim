@@ -1,4 +1,4 @@
-### ./helloworld/me.sh
+### ./me.sh
 
 programmer and cybersecurity enthusiast
 
