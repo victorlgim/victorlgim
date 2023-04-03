@@ -45,7 +45,7 @@ object victorglim {
  
 <div> 
 
-[website]: https://aizzxn.vercel.app/
+[website]: https://vglim.vercel.app/
 [youtube]: https://www.youtube.com/@aizzxn/
 <br>
 
