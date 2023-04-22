@@ -46,7 +46,7 @@ object victorglim {
 <div> 
 
 [website]: https://vglim.vercel.app/
-[youtube]: https://www.youtube.com/@aizzxn/
+[youtube]: https://www.youtube.com/channel/UCJ-YTBa2Nt0xqbGrWXWRwiQ
 <br>
 
 #### Social media!
