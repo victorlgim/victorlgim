@@ -47,12 +47,14 @@ object victorglim {
 
 [website]: https://vglim.vercel.app/
 [youtube]: https://www.youtube.com/channel/UCJ-YTBa2Nt0xqbGrWXWRwiQ
+[linkedin]: https://www.linkedin.com/in/vitor-lima/
 <br>
 
 #### Social media!
 
 🏡 [website][website] **|** 
 📺 [youtube][youtube] **|** 
+📘 [linkedin][linkedin] **|** 
 
 
  
