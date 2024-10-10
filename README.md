@@ -14,35 +14,30 @@
 </a>
 </p>
 
-## Primary Skills
-
-### Backend
+### Languages
 ![Golang](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=white)
 [![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/victorlgim)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/victorlgim)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/victorlgim)
 
-### Frontend 
-[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)](https://github.com/victorlgim)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/victorlgim)
+### Technologies & Frameworks
+[![Nest.js](https://img.shields.io/badge/Nest.js-black?style=for-the-badge&logo=nestjs)](https://github.com/victorlgim)
+[![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/victorlgim)
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/victorlgim)
+[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/victorlgim)
 [![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)](https://github.com/victorlgim)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css)](https://github.com/victorlgim)
-
-### Databases
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/victorlgim)
+[![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/victorlgim)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/victorlgim)
+[![GoogleCloud](https://img.shields.io/badge/GoogleCloud-black.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/victorlgim)
+[![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)](https://github.com/victorlgim)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/victorlgim)
 [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/victorlgim)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/victorlgim)
 [![MongoDB](https://img.shields.io/badge/MongoDB-black.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/victorlgim)
 [![MariaDB](https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=mariadb&logoColor=white)](https://github.com/victorlgim)
 [![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=07405E)](https://github.com/victorlgim)
-
-### Cloud
-[![GoogleCloud](https://img.shields.io/badge/GoogleCloud-black.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/victorlgim)
-[![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)](https://github.com/victorlgim)
-
-### Outras Linguagens e Ferramentas
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/victorlgim)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/victorlgim)
-
 
 ### OS
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)](https://github.com/victorlgim)
