@@ -4,7 +4,7 @@
 <!--     <b>Welcome to my page!</b><br><br> -->
     <i>
         I'm Victor.<br>
-        I currently study web development and cybersecurity.<br>
+        a software developer with 3 years of experience in applications web and a strong interest in cybersecurity.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
 
