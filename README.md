@@ -18,14 +18,12 @@
 ![Golang](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=white)
 [![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/victorlgim)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/victorlgim)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/victorlgim)
 
 ### Technologies & Frameworks
 [![Nest.js](https://img.shields.io/badge/Nest.js-black?style=for-the-badge&logo=nestjs)](https://github.com/victorlgim)
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/victorlgim)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/victorlgim)
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/victorlgim)
-[![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)](https://github.com/victorlgim)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css)](https://github.com/victorlgim)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/victorlgim)
 [![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/victorlgim)
