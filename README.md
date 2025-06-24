@@ -4,7 +4,7 @@
 <!--     <b>Welcome to my page!</b><br><br> -->
     <i>
         I'm Victor.<br>
-        a software developer with 3 years of experience in applications web and a strong interest in cybersecurity.<br>
+        a software developer with 4 years of experience in applications web and a strong interest in cybersecurity and serverless architecture.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
 
@@ -15,6 +15,7 @@
 </p>
 
 ### Languages
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=go&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=white)
 [![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/victorlgim)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/victorlgim)
@@ -54,14 +55,18 @@
   <a href="https://github.com/victorlgim">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorlgim&theme=transparent" />
   </a>
-<a href="https://github.com/victorlgim/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlgim&layout=compact&theme=transparent" />
-</a>
 </p>
-</details>
+
 
 <p align="center">
   <a href="https://github.com/victorlgim">
     <img src="https://komarev.com/ghpvc/?username=victorlgim&color=blue&style=flat)" />
   </a>
 </p>
+
+<br>
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=victorlgim&row=1&column=6&theme=blue&margin-w=15&margin-h=15"/>
+  </div>
+  </details>
+ <br>
