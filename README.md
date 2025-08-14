@@ -4,7 +4,6 @@
 <!--     <b>Welcome to my page!</b><br><br> -->
     <i>
         I'm Victor.<br>
-        a software developer with 4 years of experience in applications web and a strong interest in cybersecurity and serverless architecture.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
 
