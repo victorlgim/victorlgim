@@ -14,9 +14,8 @@
 </p>
 
 ### Languages
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=go&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=white)
 [![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/victorlgim)
+![Golang](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=white)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/victorlgim)
 
 ### Technologies & Frameworks
